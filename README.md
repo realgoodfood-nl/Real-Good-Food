@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Read Good Food
 
-You can use the [editor on GitHub](https://github.com/realgoodfood-nl/Real-Good-Food/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Delicious, homemade baked goods using all natural, biological where possible ingredients.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who Am I
 
-### Markdown
+An Australian living in The Netherlands, I previously ran Pop-Up Nairobi in Kenya. 
+This included:
+- A cafe, Nook Kenya
+- Cooking Classes
+- Consulting with restaurants 
+- Menu creation and training for high end safari lodges
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love baking, and Dutch Appeltart is of course delicious. I would like to offer my own style baked goods, homely, moist, moorish, like grandma would make but with contemporary flavours. 
 
 ```markdown
 Syntax highlighted code block
