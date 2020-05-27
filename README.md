@@ -11,7 +11,7 @@ This included:
 - Consulting with restaurants 
 - Menu creation and training for high end safari lodges
 
-I love baking, and Dutch Appeltart is of course delicious. I would like to offer my own style baked goods, homely, moist, moorish, like grandma would make but with contemporary flavours. 
+I love baking, and Dutch Appeltart is of course delicious. Instead of competing with Dutch classics I offer my own style baked goods, homely, moist, moorish, like an Aussie grandma would make but with contemporary flavours. 
 
 ```markdown
 Syntax highlighted code block
