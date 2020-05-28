@@ -1,5 +1,7 @@
 ## Real Good Food
-Powered by: Pop-Up Nairobi
+Powered by: Pop-Up Schiedam
+
+**Brownies - Cupcakes - Tarts - Sourdough**
 
 You can use the [editor on GitHub](https://github.com/realgoodfood-nl/Real-Good-Food/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
