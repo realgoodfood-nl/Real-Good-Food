@@ -11,7 +11,7 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
   - Raspberry Cupcake with a Raspberry Cheesecake core and frosting
   - Coffee and Walnut Cupcake with Chocolate Ganache
   - Cinnamon Choc-Chip Cupcake with Chocolate Ganache
-  *or that one time I made a blue cheese cupcake, with Avocado frosting and caramalised bacon chips*
+  - *or that one time I made a blue cheese cupcake, with Avocado frosting and caramalised bacon chips*
 
 ### Markdown
 
