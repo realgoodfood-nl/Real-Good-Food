@@ -22,5 +22,5 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
 
 
 [Visit me on Instragram](https://instagram.com/popupschiedam) and ![Image](src)
-(About)(@about)
+[About](https://realgoodfood.nl/about)
 
