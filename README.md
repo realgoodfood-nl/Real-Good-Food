@@ -21,6 +21,6 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
     - Pavlova (*or is it from New Zealand...*)
 
 
-[Visit me on Instragram](https://instagram.com/popupschiedam) and ![Image](Real Good Food Logo.png)
+[Visit me on Instragram](https://instagram.com/popupschiedam) and ![Image](https://github.com/realgoodfood-nl/Real-Good-Food/blob/master/Real%20Good%20Food%20Logo.png)
 [About](https://realgoodfood.nl/About)
 
