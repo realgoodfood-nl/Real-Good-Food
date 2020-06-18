@@ -28,12 +28,9 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
  *Street Eats, bringing you flavour popping street foods*
  
    Menu changing weekly, focusing on fresh seasonal ingredients, authentic flavours and a Real Good Food twist.
-   
-    - Tacos, handmade corn or flour tortillas
-   
-    - Banh Mi
-   
-    - Gua Bao
+      - Tacos, handmade corn or flour tortillas   
+      - Banh Mi   
+      - Gua Bao
      
    
 
