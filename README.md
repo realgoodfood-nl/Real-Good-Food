@@ -1,9 +1,11 @@
 ## Real Good Food
 
-##Sweets
+## *Sweets*
+
 **Brownies - Cupcakes - Tarts - Sourdough**
 
-##Streats
+## *Streats*
+
 **Street Eats**
 
 **Cravings: Tell us what your belly desires**
