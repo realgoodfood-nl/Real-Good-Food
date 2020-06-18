@@ -4,14 +4,6 @@
 
 **Brownies - Cupcakes - Tarts - Sourdough**
 
-## *Streats*
-
-**Street Eats**
-
-**Cravings: Tell us what your belly desires**
-
-##Sweets
-
 An Australian, baking in The Netherlands. Whilst I could never compete with the Dutch Appeltaart or amandelkoekjes I do offer moist, flavourful baking like Nanna use to make, with contemporary flavours and styles. 
 
 *Chocolate Brownies with Chocolate Ganache*
@@ -29,20 +21,23 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
     - Anzac Biscuits (koekjes)
     - Pavlova (*or is it from New Zealand...*)
     
- ##Streats
- 
+## *Streats*
+
+**Street Eats**
+
  *Street Eats, bringing you flavour popping street foods*
  
    Menu changing weekly, focusing on fresh seasonal ingredients, authentic flavours and a Real Good Food twist.
    
-   Tacos
+   Tacos, handmade corn or flour tortillas
    
    Banh Mi
    
    Gua Bao
    
-   
- **Cravings**
+
+**Cravings**
+
  
  *Tell us your cravings*
  
@@ -50,6 +45,3 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
 
 
 [Visit me on Instagram](https://instagram.com/popupschiedam) and [About](https://realgoodfood.nl/about)
-![Image](https://github.com/realgoodfood-nl/Real-Good-Food/blob/master/Real%20Good%20Food%20Logo.png)
-
-
