@@ -17,6 +17,7 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
   - *or that one time I made a blue cheese cupcake, with Avocado frosting and caramalised bacon chips*
   
  *Australian Classics*
+ 
   - Lamingtons
   - Anzac Biscuits (koekjes)
   - Pavlova (*or is it from New Zealand...*)
@@ -26,6 +27,7 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
 **Street Eats**
 
  *Street Eats, bringing you flavour popping street foods*
+ 
   - Tacos, handmade corn or flour tortillas with a variety of fillings
   - Banh Mi
   - Gua Bao
@@ -40,4 +42,6 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
   Having lived on 5 contintents and traveled 6 (still have to hit up Antactica!), I have quite broad experience. Are you looking for something special, or is there a cuisine or meal you are craving? Send me a message! 
 
 
-[Visit me on Instagram](https://instagram.com/popupschiedam) and [About](https://realgoodfood.nl/about)
+[Visit me on Instagram](https://instagram.com/popupschiedam) 
+
+[About Real Good Food](https://realgoodfood.nl/about)
