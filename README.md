@@ -2,7 +2,7 @@
 
 ## *Sweets*
 
-**Brownies - Cupcakes - Tarts - Sourdough**
+**Brownies - Cupcakes - Tarts**
 
 An Australian, baking in The Netherlands. Whilst I could never compete with the Dutch Appeltaart or amandelkoekjes I do offer moist, flavourful baking like Nanna use to make, with contemporary flavours and styles. 
 
@@ -44,4 +44,3 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
 
 [Visit me on Instagram](https://instagram.com/popupschiedam) 
 
-[About Real Good Food](https://realgoodfood.nl/about)
