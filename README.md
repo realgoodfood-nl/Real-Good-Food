@@ -6,6 +6,8 @@
 
 View the cupcakes [Menu]({{ site.url }}/assets/CupcakeMenu.pdf) directly
 
+View the cupcakes [Menu](realgoodfood-nl/Real-Good-Food/assets/CupcakeMenu.pdf)
+
 An Australian, baking in The Netherlands. Whilst I could never compete with the Dutch Appeltaart or amandelkoekjes I do offer moist, flavourful baking like Nanna use to make, with contemporary flavours and styles. 
 
 *Chocolate Brownies with Chocolate Ganache*
