@@ -2,18 +2,21 @@
 
 ## *Sweets*
 
-**Brownies - Cupcakes - Tarts**
+**Brownies - Cupcakes - Cakes - Tarts**
 
-View the cupcakes [Menu]({{ site.url }}/assets/CupcakeMenu.pdf) directly
+View the cupcakes [Menu]({{ site.url }}/assets/CupcakeMenu.pdf)
 
-View the cupcakes [Menu](github.com/realgoodfood-nl/Real-Good-Food/assets/CupcakeMenu.pdf)
-View the cupcakes [Menu]({{ https://realgoodfood.nl }}/assets/CupcakeMenu.pdf) directly
+View the cakes and tarts [Menu]({{ https://realgoodfood.nl }}/assets/CakeMenu.pdf)
 
 
 An Australian, baking in The Netherlands. Whilst I could never compete with the Dutch Appeltaart or amandelkoekjes I do offer moist, flavourful baking like Nanna use to make, with contemporary flavours and styles. 
 
 *Chocolate Brownies with Chocolate Ganache*
   - or Mexican Style with added chili and cinnamon
+  
+*Apple Crumble Cheesecake*
+  - Made with a speculaas base
+  - Drizzled with salted caramel
   
 *A multitude of cupcake flavours, if you can dream it, I can bake it*
   - Lemon and Passionfruit Cupcake, with a Lemon and Passionfruit Curd Core and Topping
@@ -35,10 +38,10 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
  *Street Eats, bringing you flavour popping street foods*
  
   - Tacos, handmade corn or flour tortillas with a variety of fillings
-  - Banh Mi
-  - Gua Bao
+  - Banh Mi, Vietnamese baguette with homemade pickles, chili lime mayo, and tempeh or pork
+  - Gua Bao, soft steamed buns filled with flavour popping fillings
   
-   Menu changing weekly, focusing on fresh seasonal ingredients, authentic flavours and a Real Good Food twist
+## Having a party? We can cater with our classics or create a special menu for you.
      
  **Cravings**
 
