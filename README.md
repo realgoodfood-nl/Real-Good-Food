@@ -48,7 +48,7 @@ An Australian, baking in The Netherlands. Whilst I could never compete with the 
  
  *Tell us your cravings*
  
-  Having lived on 5 contintents and traveled 6 (still have to hit up Antactica!), I have quite broad experience. Are you looking for something special, or is there a cuisine or meal you are craving? Send me a message! 
+  Having lived on 5 continents and traveled 6 (still have to hit up Antactica!), I have quite broad experience. Are you looking for something special, or is there a cuisine or meal you are craving? Send me a message! 
 
 
 [Visit me on Instagram](https://instagram.com/popupschiedam) 
