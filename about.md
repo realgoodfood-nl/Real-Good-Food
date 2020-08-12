@@ -2,7 +2,7 @@
 
 Email realgoodfood.nl@gmail.com
 
-Instagram @realgoodfood
+Instagram @popupschiedam
 
 ## Real Good Food
 
