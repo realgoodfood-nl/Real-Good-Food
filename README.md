@@ -15,7 +15,8 @@ View the cakes and tarts [Menu]({{ site.url }}/assets/CakeMenu.pdf)
 
 
  *Street Eats, bringing you flavour popping street foods*
- A new menu each week, order by 5pm Thursday for pick-up Friday, Saturday or Sunday.
+
+A new menu each week, order by 5pm Thursday for pick-up Friday, Saturday or Sunday.
  
  This weeks Vietnamese - Banh Xeo [Menu]({{ site.url }}/assets/StreetFoodMenu.pdf)
    
